@@ -1,3 +1,2 @@
 User-agent: *
 Disallow: /chiyuan-rover-webui/
-Disallow: /ocths/news/
